@@ -9,7 +9,6 @@ public class Class {
 				System.out.print("*");
 			}
 			System.out.println();
-			System.out.println();
 		}
 	}
 
